@@ -989,6 +989,9 @@ nav{
         margin-inline: auto;
         max-width: 1100px;
     } 
+    .nav__container{
+        background-color: #fff;
+    }
    
 }
 
